@@ -7,4 +7,7 @@
   3)Recursive Algorithms 
   4)Divide and Conquer Recurrences
   5)Homogeneous and Non Homogeneous Linear Recurrences
-  
+# Day 3:
+  WASTED
+# Day 4:
+  6)Started Recursion
